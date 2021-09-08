@@ -1,0 +1,5 @@
+WebBrowser=chromium
+FileManager=custom-FileManager
+TerminalEmulator=custom-TerminalEmulator
+FileManagerDismissed=true
+
